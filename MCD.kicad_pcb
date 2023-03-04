@@ -1578,7 +1578,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fa6184e4-32ae-4f02-8291-5269e959d1b6)
     )
-    (fp_text value "5V JMP" (at 0 5.1) (layer "F.SilkS")
+    (fp_text value "5V" (at 0 5.1) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 688bb036-79b4-4335-950f-49808947a6ca)
     )
@@ -2305,7 +2305,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tstamp 82840cd3-8980-4524-8249-2a8671282db3)
-    (at 211.9 96.4)
+    (at 212.8 96.7)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
@@ -12403,13 +12403,13 @@
     )
   )
 
-  (gr_line (start 220.4 106.7) (end 210.8 106.7)
+  (gr_line (start 221.3 107) (end 211.7 107)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 0a3631ca-98d9-452f-a3d2-d78f1c713965))
   (gr_line (start 112.6 97.3) (end 112.6 103.7)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 394d1427-67f9-46c9-a673-6427af78d5f3))
   (gr_line (start 221.5 124.1) (end 222 124.1)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 53188753-67f7-456f-b181-0943ea4abdd2))
-  (gr_line (start 207.6 106.7) (end 210.1 106.7)
+  (gr_line (start 208.5 107) (end 211 107)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 6bb49f1c-1f28-444b-b88b-f281d6525c9f))
   (gr_line (start 135.7 134.8) (end 175.6 134.8)
     (stroke (width 0.3) (type default)) (layer "F.SilkS") (tstamp 78dba769-7cb0-4fc9-acee-5dc4abb79f98))
@@ -12531,7 +12531,7 @@
       )
     )
   )
-  (gr_text "jaedynchilton.com" (at 207.1 106) (layer "F.SilkS") (tstamp 837088b7-6563-4fdc-97aa-c5e78932e090)
+  (gr_text "jaedynchilton.com" (at 208 106.3) (layer "F.SilkS") (tstamp 837088b7-6563-4fdc-97aa-c5e78932e090)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (gr_text "atalyst" (at 150.3 135.3) (layer "F.SilkS") (tstamp 880d2f46-9528-4ab9-8711-100865c4b001)
@@ -46816,6 +46816,14 @@
         (xy 184.518685 84.751423)
         (xy 184.585311 84.732003)
       )
+    )
+  )
+  (group "" (id e27361d7-3e7b-4c88-9095-c8e83b50eae9)
+    (members
+      0a3631ca-98d9-452f-a3d2-d78f1c713965
+      6bb49f1c-1f28-444b-b88b-f281d6525c9f
+      82840cd3-8980-4524-8249-2a8671282db3
+      837088b7-6563-4fdc-97aa-c5e78932e090
     )
   )
 )

@@ -6982,7 +6982,7 @@
     (property "Reference" "J3" (at 292.1 189.865 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5V JMP" (at 292.1 192.405 0)
+    (property "Value" "5V" (at 292.1 192.405 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (at 290.83 189.23 0)
