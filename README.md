@@ -16,4 +16,4 @@
 
 ## Contact Information
 
-If you have any questions, feel free to reach out at github@jaedynchilton.com!
+If you have any questions, feel free to reach out at me@jaedynchilton.com!
